@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <>
       <h1>
-        <Link href="/">WEB수정</Link>
+        <Link href="/">WEB수정----</Link>
       </h1>
       <ol>
         <li><Link href="/read/1">html</Link></li>
